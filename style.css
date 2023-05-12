@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.navbar3 a{
+    color: black;
+}
+.logo{
+    width: 250px;
+    height: 100px;
+}
+.togglebar1{
+    background-color: transparent;
+    width: 100%;
+}
+.togglebar1 a:hover{
+    color: rgb(10, 177, 189);
+}
+.drop1:hover{
+    color: #fff;
+}
+.navlink2:hover{
+    background-color: rgb(20, 167, 207);
+}
+.slidetexts{
+    font-size: 3em;
+    color: rgb(7, 231, 243);
+    text-shadow: 2px 2px 5px rgb(249, 0, 0);
+    background-color: transparent;
+    border-radius: 30px;
+    box-shadow: 0 0 100px rgb(8, 3, 21) inset;
+}
+.shortclass:hover{
+    color: black;
+}
+.findmore{
+    color: rgb(28, 171, 45);
+}
+.findmore:hover{
+    color: blue;
+}
+.pointer{
+  width: 16px;
+}
+.sportsnews{
+  width: 100px;
+}
+.socials{
+  width: 50px;
+}
+.socials:hover{
+    box-shadow: 0 0 10px rgb(85, 85, 95);
+}
+
+/* footer */
+footer {
+    background: #222;
+    color: #aaa;
+    padding-top: 10px;
+  }
+  
+  footer a {
+    color: #aaa;
+  }
+  
+  footer a:hover {
+    color: #fff;
+  }
+  
+  footer h3 {
+   color: #0894d1;
+    letter-spacing: 1px;
+    margin: 30px 0 20px;
+  }
+  
+  footer .three-column {
+   overflow: hidden;
+  }
+  
+  footer .three-column li{
+   width: 33.3333%;
+    float: left;
+    padding: 5px 0;
+  }
+  
+  footer .socila-list {
+    overflow: hidden;
+    margin: 20px 0 10px;
+  }
+  .cardimages{
+    height: 300px;
+  }
+  
+  footer .socila-list li {
+    float: left;
+    margin-right: 3px;
+    opacity: 0.7;
+    overflow: hidden;
+    border-radius: 50%;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  footer .socila-list li:hover {
+    opacity: 1;
+  }
+  
+  footer .img-thumbnail {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid #444;
+    margin-bottom: 5px;
+  }
+  
+  footer .copyright {
+    padding: 15px 0;
+    background: #333;
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  
+  footer .copyright span {
+    color: #0894d1;
+  }
